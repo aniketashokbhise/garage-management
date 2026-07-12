@@ -4,11 +4,13 @@ A modern and responsive **Garage / Workshop Management System** built using the 
 
 ---
 
-## 📸 Preview
+## 🌐 Live Demo
 
-<img width="100%" alt="Workshop Manager Dashboard" src="./screenshots/dashboard.png">
+🚀 **Project Link:**  
+**https://garage-management-m3y7t6neb-aniketashokbhises-projects.vercel.app/**
 
 ---
+
 
 ## ✨ Features
 
@@ -241,8 +243,6 @@ https://your-backend.onrender.com
 ## 👨‍💻 Developed By
 
 **Aniket Ashok Bhise**
-
-- 🎓 B.Tech Computer Science & Engineering
 - 💻 Full Stack MERN Developer
 
 ---
@@ -250,7 +250,8 @@ https://your-backend.onrender.com
 ## 📄 License
 
 This project is developed for educational and portfolio purposes. 
-<img width="717" height="682" alt="image" src="https://github.com/user-attachments/assets/eccfb520-69f2-47ed-9534-9d78fe3aad78" />
-<img width="717" height="682" alt="image" src="https://github.com/user-attachments/assets/076e8e39-5a42-4f2c-afd3-8110cba9558f" />
-Add Customer
-![Uploading image.png…]()
+
+Dashboard
+<img width="1912" height="881" alt="image" src="https://github.com/user-attachments/assets/e17bae0e-af1b-4ba0-b1f7-dd2cc25c0168" />
+
+
