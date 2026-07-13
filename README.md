@@ -7,7 +7,7 @@ A modern and responsive **Garage / Workshop Management System** built using the 
 ## 🌐 Live Demo
 
 🚀 **Project Link:**  
-**https://garage-management-m3y7t6neb-aniketashokbhises-projects.vercel.app/**
+**[https://garage-management-m3y7t6neb-aniketashokbhises-projects.vercel.app/](https://garage-management-2983lnrcn-aniketashokbhises-projects.vercel.app/)**
 
 ---
 
